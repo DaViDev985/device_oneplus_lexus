@@ -1,6 +1,10 @@
 # Bluetooth
 bluetooth.device.default_name=OnePlus Nord 5
 
+# Camera
+ro.vendor.oplus.market.enname=OnePlus Nord 5
+ro.vendor.oplus.market.name=OnePlus Nord 5
+
 # Graphics
 debug.sf.auto_latch_unsignaled=1
 ro.surface_flinger.game_default_frame_rate_override=144
