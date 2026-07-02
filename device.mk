@@ -26,10 +26,6 @@ PRODUCT_PACKAGES += \
     android.hidl.allocator@1.0-service \
     hwservicemanager
 
-# Init
-PRODUCT_PACKAGES += \
-    init.oplus.lexus.rc
-
 # IR
 $(call inherit-product-if-exists, vendor/oneplus/ir/ir.mk)
 
