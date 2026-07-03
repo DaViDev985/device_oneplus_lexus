@@ -17,6 +17,9 @@ PRODUCT_COPY_FILES += \
 TARGET_SCREEN_HEIGHT := 2800
 TARGET_SCREEN_WIDTH := 1272
 
+# Camera
+$(call inherit-product-if-exists, vendor/oplus/camera/lexus/opluscamera.mk)
+
 # Display
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/display/displayconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630946292893219971.xml
