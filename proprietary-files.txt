@@ -1554,7 +1554,6 @@ odm/etc/PanelChaplin/Lut3D_312
 odm/etc/PanelChaplin/panelchaplin
 odm/etc/vintf/manifest/vintf_manifext_aidl_panelchaplin.xml
 odm/lib64/libPanelChaplin.so
-odm/lib64/vendor.oplus.hardware.display.MixLut3D-V1-ndk_platform.so
 vendor/lib64/libPanelChaplin.so;MODULE_SUFFIX=_vendor
 
 # Display (Pixelworks)
@@ -1771,7 +1770,6 @@ vendor/etc/2025-03-17_platform_RSA_SM8635_license_a6f644da-0221-4cb4-ab44-a7d839
 vendor/etc/oem_51_prj_OppoLTM8650_1689712162019.pfm
 vendor/lib64/libcwb_client_vendor.so
 vendor/lib64/libcwb_qcom_aidl.so
-vendor/lib64/vendor.oplus.hardware.displaycolorfeature-V1-ndk.so
 
 # Sensors
 vendor/lib64/sensors.qsh.so
