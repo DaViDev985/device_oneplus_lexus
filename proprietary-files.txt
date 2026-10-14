@@ -1788,6 +1788,9 @@ odm/etc/sensor/config/palawan_mtp_oplus_smart_prox.json
 odm/etc/sensor/config/palawan_mtp_pocket.json
 odm/etc/sensor/sensor_config.json
 
+# Horae
+odm/etc/horae/horae_target.conf
+
 # Touchscreen firmware
 odm/firmware/tp/24881/FW_S3910_TIANMA.img
 odm/firmware/tp/24881/FW_S3910_TIANMA_FAE.img
